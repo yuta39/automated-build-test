@@ -1,3 +1,3 @@
-FROM docker/sample/static-site
+FROM dockersample/static-site
 ENV AUTHOR="Yuta Miyagawa"
 
